@@ -1,0 +1,20 @@
+body {
+    background:rgb(243, 243, 243) ;
+}
+nav {
+    background:#fff;
+    box-shadow: 0 0 15px #ddd ;
+}
+nav input {
+    background:#eee;
+}
+nav input:focus {
+    background:#fff;
+    border-bottom:rgb(162, 0, 255) 1px solid;
+}
+
+#box {
+    background:white;
+    border:1px #999 solid;
+    border-bottom: 2px #999 solid;  
+}
